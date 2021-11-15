@@ -13,7 +13,9 @@ class Transaction
 
     public :
         string senderAdress;
+
         string ReciverAdress ;
+        
         double Amount;
             // hash of this trnx
         string hash;

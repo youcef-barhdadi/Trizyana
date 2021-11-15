@@ -10,7 +10,7 @@
 #include <unistd.h>
 #include <sstream>
 
-#include "../Block/Transaction.hpp"
+#include "../types/Transaction.hpp"
 
 
 // here we will implemnt  a server will listen to recive transaction and add then to pool 
